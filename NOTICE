@@ -1,0 +1,8 @@
+Couchfake
+Copyright 2013 Simon Pai
+
+This software includes and is partially based on the following software:
+  - Copyright 2013 Couchbase
+    couchnode, node.js client of Couchbase
+    http://github.com/couchbase/couchnode
+    Apache License 2.0
