@@ -1,4 +1,4 @@
-var cb = require('../lib/couchbase.js'),
+var cb = require('../lib/couchfake.js'),
     fs = require('fs'),
     util = require('util');
 

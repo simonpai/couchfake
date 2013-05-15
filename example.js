@@ -1,4 +1,4 @@
-var couchbase = require("couchbase");
+var couchbase = require("couchfake");
 var http = require("http");
 var fs = require("fs");
 var util = require("util");
