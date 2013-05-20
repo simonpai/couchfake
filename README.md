@@ -34,3 +34,8 @@ What I will probably do next:
 * May stop maintaining this project after Couchbase 2.0.2 is released and proven to be dynamic-IP-friendly.
 
 
+
+## Other References
+* A [post](http://pushknocker-complex.blogspot.tw/2013/05/couchfake.html) in my blog.
+
+
